@@ -1,3 +1,5 @@
+Note : this fork containes bumped version of some libraries so you get to use it with newer Yesod versions
+===========================================================================================================
 # Yesod.Auth.OAuth2
 
 OAuth2 `AuthPlugin`s for Yesod.
